@@ -1,11 +1,11 @@
-# 내 약 알리도 (What's In My Meds?)
+# What's In My Meds?
 
 > 자세한 정보는 프로젝트의 알파 버전 완성 이전까지 비공개로 관리하고 있습니다.
-> 궁금한게 있다면 [im@devcomfort.dev](mailto:im@devcomfort.dev)로 메일을 보내주시기 바랍니다.
+> 궁금한게 있다면 [im@devcomfort.me](mailto:im@devcomfort.me)로 메일을 보내주시기 바랍니다.
 
 ## 소개
 
-**내 약 알리도 (What's In My Meds)**는 국내, 해외 상관없이. 가정에서, 관광지에서, 약에 대한 종합적인 정보를 제공하는 서비스입니다.
+**What's In My Meds?**는 국내, 해외 상관없이. 가정에서, 관광지에서, 약에 대한 종합적인 정보를 제공하는 서비스입니다.
 
 ## 기능
 
