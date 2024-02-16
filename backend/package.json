@@ -5,11 +5,11 @@
   },
   "dependencies": {
     "drizzle-orm": "^0.29.1",
-    "hono": "^3.11.2"
+    "hono": "^3.11.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20231121.0",
     "drizzle-kit": "^0.20.6",
-    "wrangler": "^3.18.0"
+    "wrangler": "^3.19.0"
   }
 }
